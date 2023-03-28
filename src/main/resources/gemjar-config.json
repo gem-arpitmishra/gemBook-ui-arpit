@@ -8,8 +8,8 @@
   "email_to": "karan.thakur@geminisolutions.com",
   "report_name": "GembookTestReport",
   "sub_id": "test_id",
-  "jewel_user": "karanthakur",
-  "jewel_bridge_token": "5a4d0c92-bfed-4500-a09b-85e7ac98ea941676631482410",
+  "jewel_user": "geco-arpit",
+  "jewel_bridge_token": "1b941be5-dbc9-4b42-aec5-448756a3b8d71679643236819",
   "enter_point": "https://apis.gemecosystem.com/enter-point",
   "prod": {
     "browserName": "chrome",
